@@ -1,0 +1,50 @@
+{
+  "productList": [
+    {
+      "productName": "Banana",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "freshness",
+      "date": "2022-12-15T05:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 60,
+      "comment": "fresh fruits",
+      "date": "2022-12-05T05:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "iphone",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 30000,
+      "comment": "good",
+      "date": "2022-12-06T05:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "vivo",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 59,
+      "comment": "nice",
+      "date": "2022-12-13T05:00:00.000Z",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
